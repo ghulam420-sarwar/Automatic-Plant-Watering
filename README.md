@@ -4,7 +4,7 @@ An ESP32-based automatic irrigation system that monitors soil moisture, temperat
 
 > Inspired by the AI-based Agronomist Bachelor thesis — bringing smart sensing to practical plant care.
 
-![Circuit diagram](images/circuit_diagram.png)
+![Circuit diagram](https://github.com/ghulam420-sarwar/Automatic-Plant-Watering/blob/main/circuit_diagram.png)
 
 ## Features
 
